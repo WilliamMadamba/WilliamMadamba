@@ -1,4 +1,4 @@
-<h1>Hi, I'm William, an <a href="https://linkedin.com/in/">IT Professional</a>👨‍💻</h1>
+<h1>Hi, I'm William, an <a href="https://www.linkedin.com/in/william-madamba-361912288/">IT Professional</a>👨‍💻</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/william-madamba-361912288/
